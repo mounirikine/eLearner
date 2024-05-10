@@ -7,7 +7,7 @@ const Login = () => {
   <main className="flex items-center justify-center pt-32">
   <div className=" bg-white border border-gray-200 rounded-xl shadow-sm :bg-neutral-900 :border-neutral-700 w-4/12 py-10"  >
   <div className="p-4 sm:p-7">
-    <div className="text-center">
+    <div className="text-center okjo">
       <h1 className="block text-2xl font-bold text-gray-800 :text-white">Sign in</h1>
       <p className="mt-2 text-sm text-gray-600 :text-neutral-400">
         Don't have an account yet?
