@@ -1,10 +1,10 @@
 const Contact = () => {
   return (
-    <section className="px-10 py-14">
+    <section className="px-2 lg:px-10 py-14">
       <h1 className="text-black  text-center  py-10 text-4xl w-8/12 mx-auto font-medium">
         Contact Us
       </h1>
-      <h1 className="text-lg w-9/12  mx-auto text-center  mb-10">
+      <h1 className="text-lg lg:w-9/12  mx-auto text-center  mb-10">
         Non magna tempor sit at donec cursus adipiscing adipiscing ut at
         pharetra habitant sagittis tincidunt adipiscing gravida at eget eget
         volutpat vestibulum.

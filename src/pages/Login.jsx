@@ -3,9 +3,9 @@ import { Link } from "react-router-dom"
 const Login = () => {
   return (
     <>
-<section className="min-h-screen bg-gradient-to-r from-violet-500 to-yellow-200">
+<section className="min-h-screen bg-gradient-to-r from-violet-500 to-yellow-200 px-3">
   <main className="flex items-center justify-center pt-32">
-  <div className=" bg-white border border-gray-200 rounded-xl shadow-sm :bg-neutral-900 :border-neutral-700 w-4/12 py-10"  >
+  <div className=" bg-white border w-full border-gray-200 rounded-xl shadow-sm :bg-neutral-900 :border-neutral-700 lg:w-4/12 py-10"  >
   <div className="p-4 sm:p-7">
     <div className="text-center okjo">
       <h1 className="block text-2xl font-bold text-gray-800 :text-white">Sign in</h1>

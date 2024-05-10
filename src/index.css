@@ -3,8 +3,11 @@
 @tailwind utilities;
 
 *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   @apply font-One
 }
 body{
-  @apply bg-white
+  @apply bg-white w-full 
 }
