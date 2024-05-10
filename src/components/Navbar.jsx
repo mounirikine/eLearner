@@ -86,7 +86,7 @@ const Navbar = () => {
               </div>
             </div>
           </div>
-          <div className="drawer w-2/12">
+          <div className="drawer w-2/12 lg:hidden">
             <input id="my-drawer" type="checkbox" className="drawer-toggle" />
             <div className="drawer-content">
               {/* Page content here */}
